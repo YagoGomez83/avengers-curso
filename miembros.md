@@ -3,6 +3,7 @@
 - Black panther
 - Black Widow
 - Capitán America
+- Goku
 - Falcon
 - Hank Pym
 - Hawkeye
